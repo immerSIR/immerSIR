@@ -12,10 +12,13 @@
 
 ## Projects
 
+- 🦞 [Bundle Claw](https://github.com/immerSIR/bundleclaw) - cross-platform CLI to export, transfer, and bootstrap OpenClaw agent state across servers
+- 💻 [Propre CLI](https://github.com/immerSIR/propre-cli) - Post-vibe-coding cleanup and hardening CLI
 - 🗺️ [Map-Action-Model](https://github.com/immerSIR/Map-Action-Model) - Computer vision models for environmental & urban mapping
 - 🌐 [Map-Action-Web-App](https://github.com/immerSIR/Map-Action-Web-App) - Web interface for the Map Action platform
 - 📊 [MapAction](https://github.com/immerSIR/MapAction) - Data dashboard for environmental insights
-- 💻 [Propre CLI](https://github.com/immerSIR/propre-cli) - Post-vibe-coding cleanup and hardening CLI
+
+
 
 ---
 
