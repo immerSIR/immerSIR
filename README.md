@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed 👋
-📍 Waltham, MA | 🌍 From Bamako, Mali | 🤖 AI & ML Builder
+📍 Waltham, MA | 🤖 AI & ML Builder
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
