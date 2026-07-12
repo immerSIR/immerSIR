@@ -12,8 +12,10 @@
 
 ## Projects
 
+- 🤝 [CLIshake](https://github.com/Clishakehq/CLIshake) - The terminal coordination layer for collaborating coding agents — Claude Code, Codex & more, working as one audited team
 - 🦞 [Bundle Claw](https://github.com/immerSIR/bundleclaw) - Cross-platform CLI to export, transfer, and bootstrap OpenClaw agent state across servers
 - 💻 [Propre CLI](https://github.com/immerSIR/propre-cli) - Post-vibe-coding cleanup and hardening CLI
+- 🎓 [Edusi](https://github.com/immerSIR/edusi) - A gamified learning platform for children in Nigeria
 
 
 
