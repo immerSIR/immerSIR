@@ -6,7 +6,7 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF6F00?style=for-the-badge)
 
-> Ex-CTO shipping computer vision & LLMs for environmental mapping. Now exploring what AI can do for the real world as a Builder and Orchestrator.
+> Exploring what AI can do for the real world as a Builder and Orchestrator.
 
 ---
 
