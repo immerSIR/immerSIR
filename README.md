@@ -17,7 +17,24 @@
 - 💻 [Propre CLI](https://github.com/immerSIR/propre-cli) - Post-vibe-coding cleanup and hardening CLI
 - 🎓 [Edusi](https://github.com/immerSIR/edusi) - A gamified learning platform for children in Nigeria
 
+---
 
+## Organization Projects
+
+### 🗺️ [Map Action](https://github.com/223MapAction)
+Civic-tech platform for reporting and mapping urban environmental incidents in Mali — citizens report issues, ML models classify them, and dashboards help authorities act.
+
+- 🔌 [Mapapi](https://github.com/223MapAction/Mapapi) - Core API powering incident reporting and mapping
+- 📊 [Dashboardv2](https://github.com/223MapAction/Dashboardv2) - Analytics dashboard for incident monitoring
+- 📱 [MobileAppv2](https://github.com/223MapAction/MobileAppv2) - Mobile app for citizen incident reporting
+- 🧠 [Model_deploy](https://github.com/223MapAction/Model_deploy) - ML model deployment for incident classification
+
+### ✅ [Check IA](https://github.com/agentsia223)
+AI-powered fact-checking platform built for the cultural and linguistic realities of the Sahel — combating misinformation with contextual intelligence.
+
+- 🌐 [check_ia](https://github.com/agentsia223/check_ia) - The fact-checking platform
+- 📱 [checkia-mobile-app](https://github.com/agentsia223/checkia-mobile-app) - Expo / React Native app for French-speaking Sahel users
+- 🗣️ [checkia-ml-api](https://github.com/agentsia223/checkia-ml-api) - Bambara translation and speech-to-text API
 
 ---
 
